@@ -204,7 +204,7 @@ class StateMachine<STATE : Any, EVENT : Any, SIDE_EFFECT : Any> private construc
                 }
             }
 
-            fun test() = "1.0"
+            fun test() = "1.1"
 
             @OptIn(ExperimentalTypeInference::class)
             @OverloadResolutionByLambdaReturnType
