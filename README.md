@@ -1,10 +1,8 @@
 # StateMachine
 
-[![CircleCI](https://circleci.com/gh/Tinder/StateMachine.svg?style=svg)](https://circleci.com/gh/Tinder/StateMachine)
+A state machine library in Kotlin with support for hierarchical states via sealed classes.
+Based on https://github.com/Tinder/StateMachine
 
-A state machine library in Kotlin and Swift.
-
-`StateMachine` is used in [Scarlet](https://github.com/Tinder/Scarlet)
 
 ## Usage
 
