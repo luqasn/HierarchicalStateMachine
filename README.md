@@ -1,4 +1,4 @@
-# StateMachine
+# HierarchicalStateMachine
 
 A state machine library in Kotlin with support for hierarchical states via sealed classes.
 Based on https://github.com/Tinder/StateMachine
